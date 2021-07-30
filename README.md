@@ -1,24 +1,26 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Homes in King County
+## Data for Home Sellers and Renovators 
 
-**Authors**: Student1, Student2, Student3
-
-The contents of this repository detail an analysis of the module one project. This analysis is detailed in hopes of making the work accessible and replicable.
+**Authors**: Justin Hue
+.
 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+We want to give prospective home sellers solid data and confidence as to what will make their homes sell for more money.
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+We were given data by King County in order to structure models for the home owner looking to sell, or simply to evaluate worth. It includes: 
+
+- Price
+- Condition
+- Square Footage of Living Space and Lot
+- Bedrooms/ Bathrooms
 
 
 ## Methods
-- descriptive analysis
-- choices made
-- key relevant findings from exploritory data analysis for mod 1, will be more involved in future mod
+An iterative linear regression process was used to construct the models. The data provided was used to ensure linearity, remove outliers, and also make sure the data was clear of multicollinear variables. Many of the starting variables were dropped, as they were not entirely necessary to the final model or pricing influence.
 
 ## Results
 
@@ -28,28 +30,19 @@ Data can include source and high-level description (e.g. # obs)
 #### Visual 1 Title
 <img src="./images/visual1.png" width=90%>
 
-> Sentence about visualization.
 
 #### Visual 2 Title
 <img src="./images/visual2.png" width=90%>
 
-> Sentence about visualization.
 
 
-## Recommendations:
 
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
 
 
 ### For further information
 Please review the narrative of our analysis in [our jupyter notebook](./index.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
 
-For any additional questions, please contact **email, email, email)
+For any additional questions, please contact **justinhccnm@outlook.com
 
 
 ##### Repository Structure:
