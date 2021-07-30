@@ -25,11 +25,11 @@ An iterative linear regression process was used to construct the models. The dat
 ## Results
 
 
-#### Visual 1 Title
+#### 
 <img src="./images/visual1.png" width=90%>
 
 
-#### Visual 2 Title
+####
 <img src="./images/visual2.png" width=90%>
 
 
