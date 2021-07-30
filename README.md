@@ -24,8 +24,6 @@ An iterative linear regression process was used to construct the models. The dat
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
 
 #### Visual 1 Title
 <img src="./images/visual1.png" width=90%>
@@ -46,9 +44,6 @@ For any additional questions, please contact **justinhccnm@outlook.com
 
 
 ##### Repository Structure:
-
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
-
 ```
 
 ├── README.md               <- The top-level README for reviewers of this project.
