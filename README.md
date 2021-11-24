@@ -1,8 +1,7 @@
 # Homes in King County
 ## Data for Home Sellers and Renovators 
 
-**Authors**: Justin Hue
-.
+**Author**: Justin Hue
 
 
 ### Business problem:
